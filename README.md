@@ -10,7 +10,7 @@ This is a WebXR demo made to celebrate the [WebXR spec](https://immersive-web.gi
 
 1. `npm install`
 2. `npm start`
-3. Open `http://localhost:8080`
+3. Open `https://localhost:8080`
 
 
 ### Shader packing
@@ -32,7 +32,7 @@ where `seconds` is an optional parameter (defaults to 5) to define how many seco
   * [Tiger And Turtle, Duisburg](https://commons.wikimedia.org/wiki/File:Tiger_And_Turtle_Panorama.jpg)
   * [Zapporthorn, Switzerland](https://commons.wikimedia.org/wiki/File:Zapporthorn_Spherical_Panorama.jpg)
   * [Naturalis Biodiversity Center](https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_Museum_-_Exhibition_Primeval_parade_33_-_Overview_room_with_skeletons_-_Panorama_360_3D.jpg)
-  
+
 * Classical Paintings:
   * [The Garden of Earthly Delights, Hieronymus Bosch](https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg)
   * [Self-Portrait, Rembrandt van Rijn](https://www.nga.gov/collection/art-object-page.79.html)
